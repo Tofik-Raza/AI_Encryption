@@ -1,4 +1,4 @@
-# Encryption and Decryption API:-
+# Encryption and Decryption Advanced API:-
 
 This project implements a FastAPI-based service for secure encryption and decryption of text using a combination of traditional cryptographic methods (AES-256) and a custom deep learning model for variable-length encryption.
 
