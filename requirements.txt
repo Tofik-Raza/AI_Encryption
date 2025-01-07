@@ -1,0 +1,7 @@
+tensorflow==2.10.1  # Compatible with Python 3.8
+numpy==1.21.6       # Ensure compatibility with TensorFlow and Python 3.8
+keras==2.10.0       # Version matching TensorFlow's Keras
+requests==2.31.0    # For making HTTP requests
+urllib3==1.26.16    # A dependency of requests
+six==1.16.0         # Used for Python 2/3 compatibility
+h5py==3.1.0         # Required by TensorFlow for model saving/loading
