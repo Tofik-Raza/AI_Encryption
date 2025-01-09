@@ -18,6 +18,7 @@ This project implements a FastAPI-based service for secure encryption and decryp
 * pydantic
 * uvicorn
 * pycryptodome
+* 
 Versions are specified in requirements.txt
 
 ## Setup Instructions:-
